@@ -1,0 +1,28 @@
+{
+    "name": "PWA-Fechadura",
+    "short_name": "Formatec",
+    "description": "PWA para controle de acesso e status de porta.",
+    "start_url": "/comandos",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4d6e00",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "https://github.com/BFKAutomacao/App-FechaduraFormatec-ADM/blob/main/16x16-1.png?raw=true",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "https://github.com/BFKAutomacao/App-FechaduraFormatec-ADM/blob/main/32x32-1.png?raw=true",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+       
+        {
+            "src": "https://github.com/BFKAutomacao/App-FechaduraFormatec-ADM/blob/main/512x512-1.png?raw=true",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
